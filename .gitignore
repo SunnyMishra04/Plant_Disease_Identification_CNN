@@ -1,0 +1,24 @@
+# Ignore datasets and models
+/New Plant Diseases Dataset(Augmented)/
+/test/
+*.keras
+*.json
+*.h5
+
+# Ignore temporary files
+temp/
+temp_image.jpg
+*.log
+
+# Ignore virtual environments
+.env
+.venv
+env/
+venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
