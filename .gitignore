@@ -1,8 +1,7 @@
 # Ignore datasets and models
 /New Plant Diseases Dataset(Augmented)/
 /test/
-*.keras
-*.json
+
 *.h5
 
 # Ignore temporary files
